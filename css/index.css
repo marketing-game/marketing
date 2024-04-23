@@ -29,7 +29,8 @@ pre {
 }
 
 a {
-  background-color: transparent
+  color: blue
+  /* background-color: transparent */
 }
 
 abbr[title] {
